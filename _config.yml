@@ -1,5 +1,5 @@
-title: Grace
+title: Grace Taylor
 logo: /assets/Screenshot 2024-06-14 102251.png
-#description: Portfolio about me
+description: Data Science Portfolio
 show_downloads: true
-theme: jekyll-theme-minimal 
+theme: remote_theme: pages-themes/midnight@v0.2.0
